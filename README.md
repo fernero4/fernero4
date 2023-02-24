@@ -27,7 +27,7 @@ I am currently in a research project developing a web page with django and react
 ## 📊 My Github Stats
 
   <br/>
-    <a href="https://github.com/fernero4/github-readme-stats"><img alt="Subham Raoniar's Github Stats" src="https://github-readme-stats.vercel.app/api?username=fernero4&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+    <a href="https://github.com/fernero4/github-readme-stats"><img alt="fernero4's Github Stats" src="https://github-readme-stats.vercel.app/api?username=fernero4&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
