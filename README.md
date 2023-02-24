@@ -35,11 +35,11 @@ I am currently in a research project developing a web page with django and react
 <br/>
 <p align="center">
     <a href="https://github.com/dipakkr/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="fernero4's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=fernero4&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="fernero4's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=fernero4&theme=react&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
 
-<a href="https://github.com/fernero4/github-readme-activity-graph"><img alt="Fernando Horta's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=fernero4&theme=github-dark" /></a>
+<a href="https://github.com/fernero4/github-readme-activity-graph"><img alt="Fernando Horta's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=fernero4&theme=react" /></a>
 
 <br/>
 <br/>
