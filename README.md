@@ -12,14 +12,7 @@ I live in Concordia - Entre Rios and I'm doing my bachelor's degree in systems�
 I am currently in a research project developing a web page with django and react.
 
 ## 🚀 Languages and Tools:
-
-- Python
-- CSS
-- Django
-- HTML
-- Java
-- PostreSQL
-- Git
+<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
 
 <br/>
 
@@ -44,13 +37,14 @@ I am currently in a research project developing a web page with django and react
 <br/>
 <br/>
 
-## Connect with me:
+## 📫 Connect with me:
+<p align="left">
+<a href="https://linkedin.com/in/fernanhorta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fernanhorta" height="30" width="40" /></a>
+<a href="https://fb.com/fernando.horta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="fernando.horta" height="30" width="40" /></a>
+<a href="https://instagram.com/fernanh0rta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="fernanh0rta" height="30" width="40" /></a>
+</p>
 
 <p align="left">
-  
-- Linkedin: https://www.linkedin.com/in/fernanhorta/
-- Instagram: https://www.instagram.com/fernanh0rta/
-- Facebook: https://www.facebook.com/fernando.horta/
-- Email: fernanhorta@hotmail.com.ar
-
+  <h3 align="left"> Or send a message to:</h3>
+- fernanhorta@hotmail.com.ar
 </p>
